@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '32841'
     url: http://www.gutenberg.org/2009/agents/32841
     wikipedia: https://en.wikipedia.org/wiki/N._C._Wyeth
+covers:
+- cover_type: archival
+  image_path: 66819-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Baldwin, James
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1982
     wikipedia: https://en.wikipedia.org/wiki/James_Baldwin_(editor_and_author)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66819#The-Sampo-A-Wonder-Tale-of-the-Old-North
 gutenberg_issued: '2021-11-25'
 identifiers:
   gutenberg: '66819'
